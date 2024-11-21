@@ -20,6 +20,13 @@ euro2024_analysis/
 │   └── euro2024_players.csv
 ├── notebooks/
 │   └── Euro2024_EDA.ipynb
+├── visualizations/
+│   ├── poland_players.png
+│   └── Bar_graph_for_clubs.png
+│   ├── Bar_graph_for_countries.png
+│   └── Bar_graph_for_Foot.png
+│   ├── Bar_graph_for_top_13_clubs.png
+│   └── Man_City_players.png
 └── README.md
 ```
 
